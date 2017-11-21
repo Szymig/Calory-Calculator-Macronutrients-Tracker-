@@ -31,3 +31,14 @@ C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\CaloryCalculatorLib\obj\
 C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\CaloryCalculatorLib\obj\Debug\CaloryCalculatorLibrary.csproj.CoreCompileInputs.cache
 C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\CaloryCalculatorLib\obj\Debug\CaloryCalculatorLib.dll
 C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\CaloryCalculatorLib\obj\Debug\CaloryCalculatorLib.pdb
+C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\Calory-Calculator-Macronutrients-Tracker-\CaloryCalculatorLib\bin\Debug\CaloryCalculator.mdf
+C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\Calory-Calculator-Macronutrients-Tracker-\CaloryCalculatorLib\bin\Debug\CaloryCalculator_log.ldf
+C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\Calory-Calculator-Macronutrients-Tracker-\CaloryCalculatorLib\bin\Debug\CaloryCalculatorLib.dll.config
+C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\Calory-Calculator-Macronutrients-Tracker-\CaloryCalculatorLib\bin\Debug\CaloryCalculatorLib.dll
+C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\Calory-Calculator-Macronutrients-Tracker-\CaloryCalculatorLib\bin\Debug\CaloryCalculatorLib.pdb
+C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\Calory-Calculator-Macronutrients-Tracker-\CaloryCalculatorLib\bin\Debug\Dapper.dll
+C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\Calory-Calculator-Macronutrients-Tracker-\CaloryCalculatorLib\bin\Debug\Dapper.xml
+C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\Calory-Calculator-Macronutrients-Tracker-\CaloryCalculatorLib\obj\Debug\CaloryCalculatorLibrary.csprojResolveAssemblyReference.cache
+C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\Calory-Calculator-Macronutrients-Tracker-\CaloryCalculatorLib\obj\Debug\CaloryCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\Calory-Calculator-Macronutrients-Tracker-\CaloryCalculatorLib\obj\Debug\CaloryCalculatorLib.dll
+C:\MyApplications\C#\Calory_Calculator\CaloryCalculator\Calory-Calculator-Macronutrients-Tracker-\CaloryCalculatorLib\obj\Debug\CaloryCalculatorLib.pdb
